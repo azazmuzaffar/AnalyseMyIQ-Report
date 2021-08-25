@@ -1,6 +1,6 @@
 # AnalyseMyIQ-Report
 
-![AnalyseMyIQ_Report](https://user-images.githubusercontent.com/64412852/130768377-24964d94-d942-45d2-ab71-351302f3982c.jpg)
+![AnalyseMyIQ_Report](https://user-images.githubusercontent.com/64412852/130769652-b90326a4-a472-4c21-8804-0439359dfd88.jpg)
 
 ## AnalyseMyIQ Report
 
